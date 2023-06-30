@@ -15,7 +15,10 @@ let resumeData = {
             "className": "fa fa-github"
         }
     ],
-    "aboutme": "I currently work as Chief Engineer for BJSS, overseeing technical quality across all projects for US operations.",
+    "aboutme": "Originally from the UK I now reside in Jersey City, USA. I studied Computer Science at the University of Nottingham " +
+        "before starting work at BJSS in 2008 in their Leeds headquarters. After also working some time based out of London " +
+        "I took a 6 month secondment to help setup the BJSS New York office and after 7 years I'm still here. I enjoy playing soccer, " +
+        "love music and all things technical.",
     "address": "Jersey City, New Jersey",
     "website": "https://bardsley.io",
     "email": "daniel@bardsley.io",
