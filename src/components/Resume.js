@@ -39,7 +39,6 @@ export default  class Resume extends Component {
               <div className="nine columns main-col">
                   <div className={"row item"}>
                       <div className="twelve columns">
-                          <h3>BJSS</h3>
                           <p>{resumeData.resumeSummary}</p>
                       </div>
                   </div>
