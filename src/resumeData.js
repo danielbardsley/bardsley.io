@@ -60,7 +60,7 @@ let resumeData = {
                 "backend Scala microservices and associated infrastructure. The system was required to be performant and " +
                 "scaleable enough to handle large spiky traffic patterns, configurable enough handle multi-state deployments and " +
                 "provide a user experience suitable to capture the fledgling American sports betting market. Extensive " +
-                "regulatory requirements necessitated extensive automated test suites to ensure the system could be deployed " +
+                "regulatory requirements necessitated robust automated test suites to ensure the system could be deployed " +
                 "after certification from the appropriate regulatory body."
         },
         {
