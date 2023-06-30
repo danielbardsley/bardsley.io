@@ -1,9 +1,9 @@
 ## bardsley.io
 
-A simple single page application for showcasing my resume. Hosted at bardsley.io. In addition to the SPA the repository
-contains the Terraform required to build and deploy the application to S3, front it with a CloudFront cache and
-expose to the internet via Route53. The site is deployed via GitLab workflows with the Terraform backed end utilizing
-Terraform Cloud services.
+A simple single page application for showcasing my resume. Hosted at [bardsley.io](https://bardsley.io). 
+In addition to the SPA the repository contains the Terraform required to build and deploy the application to S3, front 
+it with a CloudFront cache and expose to the internet via Route53. The site is deployed via GitLab workflows with the 
+Terraform back end utilizing Terraform Cloud services.
 
 ## Preview
 ![Preview](https://bardsley.io/images/screenshot.jpg)
