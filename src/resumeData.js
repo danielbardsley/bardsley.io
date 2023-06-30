@@ -45,9 +45,10 @@ let resumeData = {
             "CompanyName": "BJSS",
             "specialization": "Chief Engineer",
             "employmentPeriod": "Nov 2021 - Present",
-            "Achievements": "Daniel is currently the chief engineers for BJSS US operations. He is responsible for technical " +
-                "quality across all US projects, including technical strategy, architecture, design and delivery. " +
-                "Daniel is comfortable working hands on with clients whilst also developing technical strategy for BJSS."
+            "Achievements": "Daniel is currently the chief engineer for BJSS' US operations. He is responsible for technical " +
+                "quality across all US projects, including overall business strategy, architecture, design and delivery. " +
+                "Daniel is as comfortable working hands on with clients delivering high quality engineering as he is contributing " +
+                "to management decisions within the company."
         },
         {
             "CompanyName": "International Sports Betting Company",
