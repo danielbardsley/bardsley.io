@@ -2,7 +2,7 @@ let resumeData = {
     "name": "Daniel Bardsley",
     "role": "Chief Engineer at BJSS",
     "linkedinId": "https://www.linkedin.com/in/dbardsley/",
-    "roleDescription": "Chief Engineer at BJSS: Full Stack Architect, Developer and Leader with expertise in Cloud, DevOps and Data Engineering",
+    "roleDescription": "Chief Engineer at BJSS: Full Stack Developer, Architect and Leader with expertise in Cloud, DevOps and Data Engineering",
     "socialLinks": [
         {
             "name": "linkedin",
@@ -34,6 +34,38 @@ let resumeData = {
             "specialization": "Batchelor of Engineering in Computer Science",
             "MonthOfPassing": "Sep",
             "YearOfPassing": "2004"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Low-Latency Trading over RoCE V2 on Oracle Cloud Infrastructure",
+            "journal": "BJSS Inc",
+            "year": "2020"
+        },
+        {
+            "title": "Low-latency Trading in the Cloud Environment",
+            "journal": "IEEE International Conference on Computational Science and Engineering",
+            "year": "2019"
+        },
+        {
+            "title": "Serverless Performance and Optimization Strategies",
+            "journal": "IEEE International Conference on Smart Cloud",
+            "year": "2018"
+        },
+        {
+            "title": "A Practical Framework for 3D reconstruction and its Applications",
+            "journal": "University of Nottingham PhD Thesis",
+            "year": "2009"
+        },
+        {
+            "title": "3D Surface Reconstruction and Recognition",
+            "journal": "Biometric Technology for Human Identification IV",
+            "year": "2007"
+        },
+        {
+            "title": "Gabor Feature Selection for Face Recognition Using Improved AdaBoost Learning",
+            "journal": "International Workshop on Biometric Person Authentication",
+            "year": "2005"
         }
     ],
     "resumeSummary": "Daniel has worked for over 15 years at BJSS as a technical consultant spanning technology stacks, " +
