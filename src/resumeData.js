@@ -39,8 +39,8 @@ let resumeData = {
     "publications": [
         {
             "title": "Low-Latency Trading over RoCE V2 on Oracle Cloud Infrastructure",
-            "journal": "BJSS Inc",
-            "year": "2020"
+            "journal": "IEEE International Conference on Cloud Networking",
+            "year": "2023"
         },
         {
             "title": "Low-latency Trading in the Cloud Environment",
